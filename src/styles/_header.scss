@@ -1,8 +1,8 @@
 .header-background { /*particles-js {*/
-  background-image: url("../../assets/background.jpg");
+  background-image: url("/assets/img/background.jpg");
  
   @media only screen and (max-width: 850px) {
-      background-image: url("../../assets/background_mobile.jpg");
+      background-image: url("/assets/img/background_mobile.jpg");
   }
 
   height: 100vh;
