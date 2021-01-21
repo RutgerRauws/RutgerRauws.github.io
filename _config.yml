@@ -1,56 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Rutger Rauws
+description: Jekyll Theme Minimal Resume
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Build settings
-#theme: minima
-remote_theme: nrandecker/particle
-plugins:
-  - jekyll-feed
+# User settings
+username: Rutger Rauws
+user_description: "Recently I have completed my master's degree in Computer Science and Engineering at Eindhoven University of Technology.
+<br />
+In my spare time I keep an eye on anything that has to do with technology. This all started with typing lessons when I was still in elementary school. Since then I grew from being a web developer to being a C# programmer. I have collaborated with Microsoft during a project in high school and I became a Microsoft Student Partner.
+<br />
+After studying Computer Science at Delft University of Technology for a year I moved to Eindhoven and continued studying Computer Science. In Eindhoven I founded my own company called Rauws ICT and have helped various clients in the area for three years. During my bachelor's at Fontys I completed my pre-master in Computer Science at Eindhoven University of Technology.  I graduated from Fontys in January, 2018 and started my master's in Computer Science and Engineering at Eindhoven University of Technology in February 2018.
+<br />
+During my academic carreer I shifted focus from Windows and .NET to GNU/Linux and languages such as C++. My interest lies in low-level software development and computer graphics. My ultimate goal is to have a significant contribution to this world."
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+user_title: Software Engineer
+email: rutgerrauws@gmail.com
+twitter_username: RutgerRauws
+facebook_username: RutgerRauws
+instagram_username: RutgerRauws
+linkedin_username: rrauws
+github_username:  RutgerRauws
+
+exclude: ['package.json', 'src' , 'node_modules']
