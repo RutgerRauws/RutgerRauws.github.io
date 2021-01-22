@@ -1,18 +1,18 @@
 # Site settings
 title: Rutger Rauws
-description: Jekyll Theme Minimal Resume
+description: Personal homepage about Rutger Rauws
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rutger Rauws
-user_description: "Recently I have completed my master's degree in Computer Science and Engineering at Eindhoven University of Technology.
-<br />
-In my spare time I keep an eye on anything that has to do with technology. This all started with typing lessons when I was still in elementary school. Since then I grew from being a web developer to being a C# programmer. I have collaborated with Microsoft during a project in high school and I became a Microsoft Student Partner.
-<br />
-After studying Computer Science at Delft University of Technology for a year I moved to Eindhoven and continued studying Computer Science. In Eindhoven I founded my own company called Rauws ICT and have helped various clients in the area for three years. During my bachelor's at Fontys I completed my pre-master in Computer Science at Eindhoven University of Technology.  I graduated from Fontys in January, 2018 and started my master's in Computer Science and Engineering at Eindhoven University of Technology in February 2018.
-<br />
-During my academic carreer I shifted focus from Windows and .NET to GNU/Linux and languages such as C++. My interest lies in low-level software development and computer graphics. My ultimate goal is to have a significant contribution to this world."
+user_description: "Hi! Welcome on my homepage. My name is Rutger Rauws, and I am a 25-year-old Computer Scientist living in Eindhoven, The Netherlands.
+<br /><br />
+In my spare time I keep an eye on anything that has to do with technology. This all started with typing lessons when I was still in elementary school. During high school I grew from being a web developer to being a C# programmer. I have collaborated with Microsoft during a project in high school and I became a Microsoft Student Partner.
+<br /><br />
+After studying Computer Science at Delft University of Technology for a year I moved to Eindhoven and continued studying Computer Science. In Eindhoven I founded my own company called Rauws ICT and have helped various clients in the area for three years. During my academic carreer I shifted focus from Windows and .NET to GNU/Linux and languages such as C++. My interest lies in low-level software development and computer graphics.
+<br/><br/>
+Please find other information about me below. Feel free to contact me using the contact information at the top of the page."
 
 user_title: Software Engineer
 email: rutgerrauws@gmail.com
