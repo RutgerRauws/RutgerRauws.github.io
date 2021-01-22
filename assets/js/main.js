@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", function() {
-    new SweetScroll({});
-}, !1);
+document.addEventListener("DOMContentLoaded",function(){sweetScroll=new SweetScroll({})},!1),$(".readmore-link").click(function(e){var a=$(e.target).hasClass("expand");$(".readmore.expand").removeClass("expand"),$(".readmore-link.expand").children("i").addClass("fa-chevron-down"),$(".readmore-link.expand").children("i").removeClass("fa-chevron-up"),$(".readmore-link.expand").removeClass("expand"),a||($(e.target).parent(".readmore").addClass("expand"),$(e.target).addClass("expand"),$(e.target).children("i").addClass("fa-chevron-up"),$(e.target).children("i").removeClass("fa-chevron-down"))});
