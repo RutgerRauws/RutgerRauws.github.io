@@ -1,0 +1,36 @@
+<section>
+    <h1>Additional activities</h1>
+    <div class="card-container readmore">
+        {% assign sorted = site.categories.additional | sort: 'startdate' | reverse %}
+        {% for entry in sorted %}
+            <div class="occupation-card">
+              <div class="occupation-card-left">
+                  <div>
+                     <time datetime="{{ entry.startdate }}" itemprop="datePublished">{{ entry.startdate | date: "%m/%Y" }}</time>
+                      - 
+                     {% if entry.enddate == "NA" %}
+                     <i>today</i>
+                     {% else %}
+                     <time datetime="{{ entry.enddate }}" itemprop="datePublished">{{ entry.enddate | date: "%m/%Y" }}</time>
+                     {% endif %}
+                  </div>
+              </div>
+              <div class="occupation-card-right">
+                  <div class="occupation-title">
+                      {{entry.company}}
+                      {%- if entry.function -%}
+                      , {{entry.function}}
+                      {%- endif -%}
+                      {%- if entry.location -%}
+                      , {{entry.location}}
+                      {%- endif -%}
+                  </div>
+                  <div class="occupation-description">
+                      {{entry.description}}
+                  </div>
+              </div>
+            </div><!-- occupation-card !-->
+        {% endfor %}
+        <a class="readmore-link"><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+    </div><!-- card-container readmore !-->
+</section>
