@@ -14,7 +14,11 @@
                   <div>
                      <time datetime="{{ entry.startdate }}" itemprop="datePublished">{{ entry.startdate | date: "%m/%Y" }}</time>
                       - 
+        	     {% if entry.enddate == "NA" %}
+                     <i>today</i>
+                     {% else %}
                      <time datetime="{{ entry.enddate }}" itemprop="datePublished">{{ entry.enddate | date: "%m/%Y" }}</time>
+                     {% endif %}
                   </div>
               </div>
               <div class="occupation-card-right">
