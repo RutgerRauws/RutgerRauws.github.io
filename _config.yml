@@ -6,20 +6,22 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Rutger Rauws
-user_description: "Hi! Welcome on my homepage. My name is Rutger Rauws, and I am a 26-year-old Computer Scientist living in Eindhoven, The Netherlands.
+user_description: "Hi! Welcome on my homepage. My name is Rutger Rauws, and I am a 29-year-old Council Member and Software Engineer and living in Eindhoven, The Netherlands.
 <br /><br />
-In my spare time I keep an eye on anything that has to do with technology. This all started with typing lessons when I was still in elementary school. During high school I grew from being a web developer to being a C# programmer. I have collaborated with Microsoft during a project in high school and I became a Microsoft Student Partner.
-<br /><br />
-After studying Computer Science at Delft University of Technology for a year I moved to Eindhoven and continued studying Computer Science. In Eindhoven I founded my own company called Rauws ICT and have helped various clients in the area for three years. During my academic carreer I shifted focus from Windows and .NET to GNU/Linux and languages such as C++. My interest lies in low-level software development and computer graphics.
+
+I was born and raised in the city of Almelo, The Netherlands. After studying Computer Science at Delft University of Technology for a year I moved to Eindhoven and continued studying Computer Science. During my academic carreer I shifted focus from Windows and .NET to GNU/Linux and languages such as C++. My interest lies in low-level software development and computer graphics.
 <br/><br/>
+
+Nowadays I am still an active software engineer, I'm also active as a local council member for the party [GroenLinks](https://eindhoven.groenlinks.nl/). If you wish to learn more about my political activities, have a look at [my party's personal page](https://eindhoven.groenlinks.nl/onze-mensen/rutger-rauws) or follow me on [Instagram](https://www.instagram.com/RutgerRauws).
+
 Please find other information about me below. Feel free to contact me using the contact information at the top of the page."
 
 user_title: Software Engineer
-email: rutgerrauws@gmail.com
+email: contact@rutgerrauws.nl
 twitter_username: RutgerRauws
 facebook_username: RutgerRauws
 instagram_username: RutgerRauws
-linkedin_username: rrauws
+linkedin_username: RutgerRauws
 github_username:  RutgerRauws
 
 exclude: ['package.json', 'src' , 'node_modules']
