@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[59342,["./_next/static/chunks/40de050d43948725.js","./_next/static/chunks/e47ed911ab389fd3.js","./_next/static/chunks/2720ab6b8c1f34de.js","./_next/static/chunks/1c8d1c99257812c7.js","./_next/static/chunks/59c26dc39b2d7d68.js"],"default"]
+2:I[59342,["./_next/static/chunks/f5811ab7766fb62c.js","./_next/static/chunks/e47ed911ab389fd3.js","./_next/static/chunks/2720ab6b8c1f34de.js","./_next/static/chunks/1c8d1c99257812c7.js","./_next/static/chunks/59c26dc39b2d7d68.js"],"default"]
 3:I[58881,["./_next/static/chunks/aeda7fc0cbeb7b5a.js","./_next/static/chunks/f74e366a81886928.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"omtrcZ66QfxB4n2GiqZNH","rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":"mobility","backgroundImagePath":"/img/nyc-fiets.jpg"}],[["$","script","script-0",{"src":"./_next/static/chunks/2720ab6b8c1f34de.js","async":true}],["$","script","script-1",{"src":"./_next/static/chunks/1c8d1c99257812c7.js","async":true}],["$","script","script-2",{"src":"./_next/static/chunks/59c26dc39b2d7d68.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"zyMu2s4p6-JZsBBTlo0UR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"category":"mobility","backgroundImagePath":"/img/nyc-fiets.jpg"}],[["$","script","script-0",{"src":"./_next/static/chunks/2720ab6b8c1f34de.js","async":true}],["$","script","script-1",{"src":"./_next/static/chunks/1c8d1c99257812c7.js","async":true}],["$","script","script-2",{"src":"./_next/static/chunks/59c26dc39b2d7d68.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
